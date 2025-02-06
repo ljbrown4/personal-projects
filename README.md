@@ -1,1 +1,3 @@
 # personal-projects
+## One-Stop Calculator
+When complete this Python program will implement a One-Stop Calculator, an all-in-one tool for performing various mathematical and conversion operations. It features five main modes: Standard Calculator for basic arithmetic, Scientific Calculator for advanced calculations, Unit Converter for measurement conversions, Tip Calculator for gratuity calculations, and Currency Converter for exchange rate computations. Users can navigate between these options through a main menu and input expressions or values interactively. The program will ensure input validation, supports clearing previous results, and allows users to return to the main menu at any time.
